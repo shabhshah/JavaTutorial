@@ -14,5 +14,7 @@ public class JavaTutorial {
     public static void main(String[] args) {
         int noCardsInDeck = 52;
         System.out.println("Number of cards left: " + noCardsInDeck);
+        
+        MultiplicationTables.run();
     }
 }
